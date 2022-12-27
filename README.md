@@ -4,6 +4,8 @@
 
 ## Frameworks and Libraries
 
+- [OpenCV](https://opencv.org/)
+
 ## Research Papers
 
 ## Blogs
